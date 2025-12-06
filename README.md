@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Ritik Kumar — a Python Full-Stack Developer and Data Analyst and BCA student passionate about building real-world web applications. I love working with Django, DRF, React, and MySQL, and I’m currently exploring AI/ML to enhance my projects. Always learning, always building!
+Hi, I’m Ritik Kumar — a Python Full-Stack Developer and Data Analyst and Computer Science student passionate about building real-world web applications, ML models and data analysis. I love working with Data, Django, DRF, React, and MySQL, and I’m currently exploring AI/ML to enhance my projects. Always learning, always building!
 
 
 ## 🌐 Socials:
